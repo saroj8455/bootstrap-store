@@ -69,7 +69,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #555;
+  color: #555 !important;
 }
 /* Make images easier to work with */
 img,
